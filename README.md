@@ -28,6 +28,9 @@
    On Windows:
 
    ```shell
+   Set-ExecutionPolicy Unrestricted -Scope Process
+   ```   
+   ```shell
    venv\Scripts\activate
    ```
 
