@@ -1,8 +1,3 @@
-ch# Template API
-
-The Template API serves as the backbone of our platform
-
-
 ## Prerequisites
 
 - Python 3.9 or later
