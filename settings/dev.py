@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    
 
 # Third Parties Libraries
     "django_extensions",
@@ -52,6 +53,7 @@ INSTALLED_APPS = [
 # App
     "api",
     "account",
+    "livestock",
 
 ]
 
